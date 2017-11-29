@@ -8,7 +8,7 @@ In this project, we'll learn about TTD ( test driven development ). Using Jest, 
 
 ### Summary
 
-In this step, we'll create a `package.json` and install `jest` so that we can create unit tests for `cart.js` and `user.js`.
+In this step, we'll create a `package.json` and install `jest` so that we can create unit tests for `cart.js`.
 
 ### Instructions
 
@@ -454,7 +454,7 @@ describe('Cart Methods:', function() {
 
 ### Summary
 
-In this step, we'll update our application to allow a previous cart and total to be restored, if the user's charge has failed.  This will involve changes to the `cart.test.js` and `cart.test.js` files.
+In this step, we'll update our application to allow a previous cart and total to be restored, if the user's charge has failed.  This will involve changes to the `cart.test.js` and `cart.js` files, but for this step we'll just update the test file.
 
 ### Instructions
 
